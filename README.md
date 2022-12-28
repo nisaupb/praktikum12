@@ -40,5 +40,3 @@ print(txt.format(umur))
 outout latihan 1 dan 2
 ![Screenshot (84)](https://user-images.githubusercontent.com/116271847/209821156-e2275319-a886-4690-8105-1267fc1d5d17.png)
 ![Screenshot (85)](https://user-images.githubusercontent.com/116271847/209821225-af55162a-9a9a-4f45-bba4-b8cae82bd860.png)
-
-)
