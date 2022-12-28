@@ -39,8 +39,6 @@ print(f"Menganti karakter H dengan J = {f}")
 ~~~bash
 txt = 'Hello, nama saya john, dan umur saya adalah {0} tahun'
 print(txt.format(umur))
+~~~
 
 output latihan 1 dan 2
-![Screenshot (84)](https://user-images.githubusercontent.com/116271847/209834067-956e58c5-50c2-4465-af61-5d2d8a8b39de.png)
-![Screenshot (85)](https://user-images.githubusercontent.com/116271847/209834102-2c4ecc15-7899-465a-8a0a-8e2cd3595b4c.png)
-
