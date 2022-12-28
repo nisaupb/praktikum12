@@ -42,3 +42,6 @@ print(txt.format(umur))
 ~~~
 
 output latihan 1 dan 2
+![IMG-20221228-WA0035](https://user-images.githubusercontent.com/116271847/209835505-b76099a5-bc59-476d-967d-f2e8651784f3.jpg)
+![IMG-20221228-WA0036](https://user-images.githubusercontent.com/116271847/209835511-070eb672-a278-4bc1-b2f8-cd07dfe02c36.jpg)
+
