@@ -11,12 +11,12 @@ Latihan 1
 
 txt = 'Hello World'
 print(f"Teks = {txt}")
-# Menghitung jumlah karakter
+Menghitung jumlah karakter
 print("Jumlah Karakter = ",len(txt))
-# Mengambil karakter terakhir
+Mengambil karakter terakhir
 a = txt[-1]
 print('Karakter Terakhir = ',a)
-# Mengambil karakter ke-2 sampai ke-4
+Mengambil karakter ke-2 sampai ke-4
 b = txt[2:5]
 print(f"Karakter ke-2 sampai ke-4 = {b}")
 # Hilangkan spasi pada text 
